@@ -473,51 +473,51 @@
     },
     {
         "code": "01076",
-        "flavor": "No man ever truly knows what he can do unless he dares to leap.\" <cite>Euron Crow's Eye</cite>",
-        "name": "Salty Navigator",
+        "flavor": "Nul ne peut savoir de quoi il est véritablement capable, à moins d'oser se précipiter dans le vide.\" <cite>Euron l'Œil-de-Choucas</cite>",
+        "name": "Marin endurci",
         "text": "+1 Initiative.",
-        "traits": "Ironborn."
+        "traits": "Fer-né."
     },
     {
         "code": "01077",
-        "name": "Throwing Axe",
-        "text": "<i>Ironborn</i> character only.\n<b>Reaction:</b> After you win a challenge in which attached character is participating as an attacker, sacrifice Throwing Axe to choose and kill a defending character.",
-        "traits": "Weapon."
+        "name": "Hache de jet",
+        "text": "Personnage <i>Fer-né</i> uniquement.\n<b>Réaction:</b> après avoir gagné un défi auquel le personnage attaché participe en tant qu'attaquant, sacrifiez la Hache de jet pour choisir et tuer un personnage défenseur.",
+        "traits": "Arme."
     },
     {
         "code": "01078",
-        "name": "Great Kraken",
-        "text": "While you control Balon Greyjoy, he gains stealth.\n<b>Reaction:</b> After you win an unopposed challenge, either: draw 1 card, or gain 1 power for your faction. (Limit twice per round.)",
-        "traits": "Warship."
+        "name": "La Grande-Seiche",
+        "text": "Tant que vous contrôlez Balon Greyjoy, ce dernier gagne Furtivité.\n<b>Réaction:</b> après avoir gagné un défi non opposé, choisissez entre: piocher 1 carte, ou gagner 1 point de pouvoir pour votre faction. (Limite de deux fois par round.)",
+        "traits": "Bâtiment de guerre."
     },
     {
         "code": "01079",
-        "name": "Iron Fleet Scout",
-        "text": "<b>Challenges Action:</b> Kneel Iron Fleet Scout to choose a participating [greyjoy] character. Until the end of the challenge, that character gets +1 STR. (+2 STR instead if you are the first player.)",
-        "traits": "Warship."
+        "name": "Éclaireur de la flotte de Fer",
+        "text": "<b>Action de défis:</b> inclinez l'Éclaireur de la flotte de Fer pour choisir un personnage [greyjoy] participant. Jusqu'à la fin du défi, ce personnage gagne +1 FOR. (+2 FOR si vous êtes le premier joueur.)",
+        "traits": "Bâtiment de guerre."
     },
     {
         "code": "01080",
-        "name": "Sea Tower",
-        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Sea Tower to reduce the cost of the next [greyjoy] card you marshal this phase by 1.",
-        "traits": "Iron Islands."
+        "name": "Tour maritime",
+        "text": "Limitée.\n<b>Action de recrutement:</b> inclinez la Tour maritime pour réduire de 1 le coût de la prochaine carte [greyjoy] que vous recrutez à cette phase.",
+        "traits": "Îles de Fer."
     },
     {
         "code": "01081",
-        "name": "Risen from the Sea",
-        "text": "<b>Interrupt:</b> When a [greyjoy] character would be killed, save it. Then, attach Risen from the Sea to that character as a <i>Condition</i> attachment with the text: \"Terminal. Attached character gets +1 STR.\"",
+        "name": "Tiré des flots",
+        "text": "<b>Interruption:</b> quand un personnage [greyjoy] est censé être tué, sauvez-le. Puis attachez Tiré des flots à ce personnage comme un attachement <i>État</i> avec le texte: \"Condamné. Le personnage gagne +1 FOR.\"",
         "traits": ""
     },
     {
         "code": "01082",
-        "name": "The Kraken's Grasp",
-        "text": "Play only if you are the first player.\n<b>Challenges Action:</b> Choose a defending character with STR 5 or lower. That character does not contribute is STR to this challenge.",
+        "name": "L'étreinte du Kraken",
+        "text": "À ne jouer que si vous êtes le premier joueur.\n<b>Action de défis:</b> choisissez un personnage avec une FOR de 5 ou moins. Ce personnage ne confère pas sa force à ce défi.",
         "traits": ""
     },
     {
         "code": "01083",
-        "name": "We Do Not Sow",
-        "text": "<b>Reaction:</b> After you win an unopposed challenge, choose an attachment or location controlled by the losing opponent, and discard it from play. (Max 1 per challenge.)",
+        "name": "Nous ne semons pas",
+        "text": "<b>Réaction:</b> après avoir gagné un défi non opposé, choisissez un attachement ou un lieu contrôlés par l'adversaire perdant et défaussez-le du jeu. (Maximum 1 par défi.)",
         "traits": ""
     },
     {
