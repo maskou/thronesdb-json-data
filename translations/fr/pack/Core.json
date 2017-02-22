@@ -421,55 +421,55 @@
     },
     {
         "code": "01068",
-        "flavor": "\"I am the Greyjoy, Lord Reaper of Pyke, King of Salt and Rock, Son of the Sea Wind, and no man gives me a crown. I pay the iron price.\"",
+        "flavor": "\"Je suis le Greyjoy, lord Ravage de Pyk, roi du Sel et du Roc, fils du Vent de mer, et personne ne me donne de couronne. Je paie le fer-prix.\"",
         "name": "Balon Greyjoy",
-        "text": "Renown.\nWhile Balon Greyjoy is attacking, each defending character with a lower STR than his does not contribute its STR to that challenge.",
-        "traits": "Ironborn. Lord."
+        "text": "Renom.\nTant que Balon Greyjoy attaque, chaque personnage défenseur ayant une FOR inférieure à la sienne ne confère pas sa FOR à ce défi.",
+        "traits": "Fer-né. Lord."
     },
     {
         "code": "01069",
-        "flavor": "\"The Crow's Eye worships naught but his own pride.\" <cite>Aeron Damphair</cite>",
-        "name": "Euron Crow's Eye",
-        "text": "Pillage. Renown.\n<b>Reaction:</b> After Euron Crow's Eye discards a card using pillage, put a location from the losing opponent's discard pile into play under your control.",
-        "traits": "Ironborn. Lord. Raider."
+        "flavor": "\"Le Choucas ne révère que son propre orgueil.\" <cite>Aeron Tifs-Trempes</cite>",
+        "name": "Euron l'Œil-de-Choucas",
+        "text": "Pillage. Renom.\n<b>Réaction:</b> après qu'Euron l'Œil-de-Choucas a défaussé une carte en utilisant Pillage, mettez en jeu sous votre contrôle un lieu de la pile de défausse de l'adversaire perdant.",
+        "traits": "Fer-né. Lord. Pillard."
     },
     {
         "code": "01070",
-        "flavor": "He wore about his neck a chain of many metals that marked him for a master of the Citadel.",
-        "name": "Maester Wendamyr",
-        "text": "Stealth.",
-        "traits": "Maester."
+        "flavor": "Il était ceint au cou d'une chaînede métaux divers qui le désignait comme un mestre de la Citadelle.",
+        "name": "Mestre Wendamyr",
+        "text": "Furtivité.",
+        "traits": "Mestre."
     },
     {
         "code": "01071",
-        "flavor": "\"Only a fool humbles himself when the world is so full of men eager to do that job for him.\"",
+        "flavor": "\"Il faut être idiot pour s'humilier soi-même quand le monde pullule de gens qui brûlent de vous suppléer dans cette besogne.\"",
         "name": "Theon Greyjoy",
-        "text": "Stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which Theon Greyjoy is participating, he gains 1 power.",
-        "traits": "Ally. Ironborn. Lord."
+        "text": "Furtivité.\n<b>Réaction:</b> après que vous avez gagné un défi non opposé auquel ilparticipe, Theon Greyjoy gagne 1 point de pouvoir.",
+        "traits": "Allié. Fer-né. Lord."
     },
     {
         "code": "01072",
-        "name": "Black Wind's Crew",
+        "name": "Équipage du Vent Noir",
         "text": "Pillage.",
-        "traits": "Ironborn. Raider."
+        "traits": "Fer-né. Pillard."
     },
     {
         "code": "01073",
-        "name": "Drowned Men",
-        "text": "No attachments.\nDrowned Men gets +1 STR for each <i>Warship</i> location you control.",
-        "traits": "Army. Drowned God."
+        "name": "Noyés",
+        "text": "pas d'attachements.\nLes Noyés gagnes +1 FOR pour chaque <i>Bâtiment de guerre</i> que vous contrôlez.",
+        "traits": "Armée. Dieu Noyé."
     },
     {
         "code": "01074",
-        "name": "Iron Islands Fishmonger",
-        "text": "<b>Marshaling Action:</b> Kneel Iron Islands Fishmonger to reduce the cost of the next [greyjoy] character you marshal this phase by 1.",
-        "traits": "Ally. Merchant."
+        "name": "Poissonnière des îles de Fer",
+        "text": "<b>Action de recrutement:</b> inclinez la Poissonnière des îles de Fer pour réduire de 1 le coût du prochain personnage [greyjoy] que vous recrutez à cette phase.",
+        "traits": "Allié. Marchand."
     },
     {
         "code": "01075",
-        "name": "Lordsport Shipwright",
-        "text": "<b>Marshaling Action:</b> Kneel Lordsport Shipwright to choose and kneel a location with printed cost 2 or lower. (Printed cost 3 or lower instead if you are the first player.)",
-        "traits": "Ally. Ironborn."
+        "name": "Charpentier de marine de Lordsport",
+        "text": "<b>Action de recrutement:</b> inclinez le charpentier de marine de Lordsport pour choisir et incliner un lieu ayant un coût imprimé de 2 ou moins (Coût imprimé de 3 ou moins si vous êtes le premier joueur.)",
+        "traits": "Allié. Fer-né."
     },
     {
         "code": "01076",
