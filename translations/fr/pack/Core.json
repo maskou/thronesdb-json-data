@@ -312,112 +312,112 @@
     },
     {
         "code": "01051",
-        "flavor": "\"The grey death sleeps, only to wake again. The child is not clean!” <cite>Val</cite>",
-        "name": "Shireen Baratheon",
-        "text": "<b>Interrupt:</b> When Shireen Baratheon is killed, choose and kneel a character.",
+        "flavor": "\"La mort grise sommeille, mais ce n'est que pour se réveiller. Cette enfant n'est pas saine!” <cite>Val</cite>",
+        "name": "Shôren Baratheon",
+        "text": "<b>Interruption:</b> quand Shôren Baratheon est tuée, choisissez et inclinez un personnage.",
         "traits": "Lady."
     },
     {
         "code": "01052",
-        "flavor": "\"I shall bring justice to Westeros.\"",
+        "flavor": "\"À Westeros, j'apporterai la justice.\"",
         "name": "Stannis Baratheon",
-        "text": "Each player cannot stand more than 2 characters during the standing phase.",
-        "traits": "Lord. Small Council."
+        "text": "Aucun joueur ne peut redresser plus de 2 personnages lors de sa phase de redressement. (les cartes non-personnage ne sont pas concernées par cette capacité)",
+        "traits": "Lord. Conseil restreint."
     },
     {
         "code": "01053",
-        "flavor": "\"The seed is strong, he told me. His last words. He kept saying Robert's name, and he grabbed my arm so hard he left marks. Tell them, the seed is strong.\" <cite>Lysa Arryn</cite>",
-        "name": "Bastard in Hiding",
-        "traits": "Bastard."
+        "flavor": "\"LA graine est vigoureuse, il m'a dit. Ses derniers mots. Il n'arrêtait pas de répéter le nom de Robert, et il me serrait le bras si fort qu'il y laissait des marques. Dis-le-leur, que la graine est vigoureuse.\" <cite>Lysa Arryn</cite>",
+        "name": "Bâtard caché",
+        "traits": "Bâtard."
     },
     {
         "code": "01054",
-        "flavor": "\"The red priests have a great temple on Lys. Always they are burning this and burning that, crying out to their R'hllor. They bore me with their fires. Soon they will bore King Stannis too, it is to be hoped.\" <cite>Salladhor Saan</cite>",
-        "name": "Fiery Followers",
-        "text": "<b>Reaction:</b> After the dominance phase begins, stand Fiery Followers.",
+        "flavor": "\"Les prêtres rouges ont un grand temple, chez nous. Ils passent leur temps à brûler ci, brûler ça et corner leur R'hllor. Je suis saoulé de leurs bûchers. Espérons qu'ils ne tarderont pas à saouler Stannis aussi.\" <cite>Salladhor Saan</cite>",
+        "name": "Ardents partisans",
+        "text": "<b>Réaction:</b> après le début de la phase d'hégémonie, redressez les Ardents partisans.",
         "traits": "R'hllor."
     },
     {
         "code": "01055",
-        "flavor": "“Three of my men were cut down like dogs not a league from where we sit, and what does Robert do? He goes hunting.\" <cite>Eddard Stark</cite>",
-        "name": "King's Hunting Party",
-        "text": "No attachments.\nWhile an opponent controls a King character, King's Hunting Party gains an [intrigue] icon .",
-        "traits": "Army."
+        "flavor": "“Alors qu'on m'a tué comme des chiens trois de mes hommes à deux pas d'ici, comment Robert réagit-il, je vous prie? En partant chasser!.\" <cite>Eddard Stark</cite>",
+        "name": "Veneurs du roi",
+        "text": "Pas d'attachements.\nTant qu'un adversaire contrôle un personnage <i>Roi<\i>, les Veneurs du roi gagnent une icône [intrigue].",
+        "traits": "Armée."
     },
     {
         "code": "01056",
-        "name": "Dragonstone Faithful",
-        "text": "<b>Marshaling Action:</b> Kneel Dragonstone Faithful to reduce the cost of the next [baratheon] character you marshal this phase by 1.",
-        "traits": "Ally."
+        "name": "Fidèles de Peyredragon",
+        "text": "<b>Action de recrutement:</b> inclinez les fidèles de Peyredragon pour réduire de 1 le coût du prochain personnage [baratheon] que vous recrutez à cette phase.",
+        "traits": "Allié."
     },
     {
         "code": "01057",
-        "name": "Vanguard Lancer",
-        "text": "<b>Reaction:</b> After Vanguard Lancer enters play, choose an opponent's character or faction card, and discard 1 power from that card.",
-        "traits": "House Florent. Knight."
+        "name": "Lancier de l'avant-garde",
+        "text": "<b>Réaction:</b> Après l'entrée en jeu du Lancier l'avant-garde, choisissez une carte personnage ou faction d'un adversaire, et défaussez un point de pouvoir de celle-ci.",
+        "traits": "Maison Florent. Chevalier."
     },
     {
         "code": "01058",
-        "name": "Lightbringer",
-        "text": "[baratheon] character only.\nIf attached character is Stannis Baratheon, he gains renown.\n<b>Reaction:</b> After attached character gains 1 or more power, stand it. (Limit once per phase.)",
-        "traits": "R'hllor. Weapon."
+        "name": "Illumination",
+        "text": "Personnage [baratheon] uniquement.\nSi le personnage attaché est Stannis Baratheon, il gagne Renom.\n<b>Réaction:</b> redressez le personnage attaché après qu'il a gagné au moins 1 point de pouvoir. (Limite d'une fois par phase.)",
+        "traits": "R'hllor. Arme."
     },
     {
         "code": "01059",
-        "name": "Dragonstone Port",
-        "text": "Limited.\n<b>Marshaling Action:</b> Kneel Dragonstone Port to reduce the cost of the next [baratheon] card you marshal this phase by 1.",
-        "traits": "Dragonstone."
+        "name": "Port de Peyredragon",
+        "text": "Limitée.\n<bAction de recrutement:</b> inclinez le Port de Peyredragon pour réduire de 1 le coût de la prochaine carte [baratheon] que vous recrutez à cette phase.",
+        "traits": "Peyredragon."
     },
     {
         "code": "01060",
-        "name": "Chamber of the Painted Table",
-        "text": "<b>Reaction:</b> After you win dominance, kneel Chamber of the Painted Table to move 1 power from an opponent's faction card to your own.",
-        "traits": "Dragonstone."
+        "name": "Salle de la table peinte",
+        "text": "<b>Réaction:</b> après avoir remporté l'hégémonie, inclinez la Salle de la table peinte pour déplacer 1 point de pouvoir de la carte faction d'un adversaire vers la vôtre.",
+        "traits": "Peyredragon."
     },
     {
         "code": "01061",
-        "name": "The Red Keep",
-        "text": "The Red Keep contributes 2 STR to your side during any [power] challenge in which you control a participating character.\n<b>Interrupt:</b> When the challenges phase ends, if you have not lost a [power] challenge this round, kneel The Red Keep to draw 2 cards.",
-        "traits": "King's Landing."
+        "name": "Le Donjon Rouge",
+        "text": "Le Donjon Rouge confère 2 FOR à votre camp pour tout défi [power] dans lequel vous contrôlez un personnage participant.\n<b>Interruption:</b> quand la phase de défis prend fin, si vous n'avez pas perdu un défi [power] à ce round, inclinez Le Donjon Rouge pour piocher 2 cartes.",
+        "traits": "Port-Réal."
     },
     {
         "code": "01062",
-        "name": "Consolidation of Power",
-        "text": "<b>Marshaling Action:</b> Choose and kneel up to 4 total STR worth of characters controlled by the same player. Then, choose one of those characters, and have it gain 1 power.",
+        "name": "Consolidation du pouvoir",
+        "text": "<b>Action de recrutement:</b> choisissez et inclinez jusqu'à 4 FOR de personnages contrôlés par le même joueur. Ensuite, choisissez un de ces personnages et faites lui gagner 1 point de pouvoir.",
         "traits": ""
     },
     {
         "code": "01063",
-        "name": "Ours is the Fury",
-        "text": "Play only during a challenge in which you are the defending player.\n<b>Action:</b> Choose a kneeling [baratheon] character you control. That character is now participating as a defender. If you win this challenge, stand that character.",
+        "name": "Nôtre est la fureur",
+        "text": "À ne jouer que lors d'un défi dans lequel vous êtes le joueur défenseur.\n<b>Action:</b> choisissez un personnage [baratheon] incliné que vous contrôlez. Ce personnage participe désormais en tant que défenseur. Si vous gagnez ce défi, redressez ce personnage.",
         "traits": ""
     },
     {
         "code": "01064",
-        "name": "Seen In Flames",
-        "text": "Play only if you control a <i>R'hllor</i> character.\n<b>Challenges Action:</b> Choose an opponent, and look at his or her hand. Then, choose and discard 1 card from that hand.",
+        "name": "Vu dans les flammes",
+        "text": "À ne jouer que si vous contrôlez un personnage <i>R'hllor</i>.\n<b>Action de défis:</b> Choisissez un adversaire et regardez sa main. Ensuite, choisissez et défaussez 1 carte de cette main.",
         "traits": "R'hllor."
     },
     {
         "code": "01065",
-        "flavor": "\"What is dead may never die, but rises again, harder and stronger.\"",
-        "name": "Aeron Damphair",
-        "text": "<b>Reaction:</b> After you win dominance, put an <i>Ironborn</i> character into play from your dead pile.",
-        "traits": "Drowned God. Ironborn. Lord."
+        "flavor": "\"Ce qui est mort ne saurait plus mourir mais ressurgit plus rude et plus vigoureux.\"",
+        "name": "Aeron Tifs-Trempes",
+        "text": "<b>Réaction:</b> après avoir remporté l'hégémonie, mettez en jeu un personnage <i>Fer-né</i> de votre pile des morts.",
+        "traits": "Dieu Noyé. Fer-né. Lord."
     },
     {
         "code": "01066",
-        "flavor": "Alannys never had the sort of beauty the singers cherished, but her daughter had loved her fierce strong face and the laughter in her eyes.",
+        "flavor": "Sans avoir jamais possédé les canons de beauté dont les chanteurs se montraient friands, Alannys Harloi s'était fait adorer de sa fille par des traits d'une énergie farouche et un regard rieur.",
         "name": "Alannys Greyjoy",
-        "text": "While you are the first player, reduce the reserve value on each opponent's revealed plot card by 1.",
-        "traits": "House Harlaw. Lady."
+        "text": "Tant que vous êtes le premier joueur, réduisez de 1 la valeur de réserve de la carte complot qu'a révélée chaque adversaire.",
+        "traits": "Maison Harloi. Lady."
     },
     {
         "code": "01067",
-        "flavor": "\"I am Asha of House Greyjoy, aye. Opinions differ on whether I'm a lady.\"",
+        "flavor": "\"Asha de la maison Gryjoy, certes. Les opinions divergent quant à savoir si je suis ou non une dame.\"",
         "name": "Asha Greyjoy",
-        "text": "Stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which Asha Greyjoy is participating, stand her.",
-        "traits": "Ironborn. Lady."
+        "text": "Furtivité.\n<b>Réaction:</b> après avoir gagné un défi non opposé auquel Asha Greyjoy participe, redressez cette dernière.",
+        "traits": "Fer-né. Lady."
     },
     {
         "code": "01068",
